@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /cgi-bin/
+Disallow: /api.php
+
+Sitemap: https://webizdev.web.id/ratna-property/sitemap.xml
